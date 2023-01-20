@@ -1,0 +1,1 @@
+# BulgarianNewPhonetic_MacOSLayout
