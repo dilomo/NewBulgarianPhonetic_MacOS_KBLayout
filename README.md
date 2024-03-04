@@ -1,6 +1,7 @@
 # Нова фонетика
 
-<img width="500" alt="image" src="https://github.com/dilomo/NewBulgarianPhonetic_MacOS_KBLayout/assets/62781182/b41ae1d5-2655-451e-97b2-dc4a04ca409d">
+<img width="550" alt="image" src="https://github.com/dilomo/NewBulgarianPhonetic_MacOS_KBLayout/assets/62781182/78777f34-2a69-4c02-8766-affe4e1cf3c7">
+
 
 За всички които са свикнали на начина на писане в Уиндос или сменят компютрите често направих лейаут за клавиатура за MacOS Ventrua, Monterey, Sonoma
 
